@@ -1,0 +1,9 @@
+--- FOR IMAGES
+   unslpash.com
+   uifaces.co
+
+---- FOR TINTS AND SHADES
+  maketintsandshades.com
+
+  ---To check contrast
+     coolors.co
